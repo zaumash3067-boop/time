@@ -1,4 +1,5 @@
-   box-shadow: ...; /* початок обрізано на скріншоті */
+* {
+   box-sizing: border-box
 }
 
 h1 {
